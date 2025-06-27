@@ -80,11 +80,12 @@ html, body {
 
 .title {
     position: absolute;
-    top: 20px;
-    left: 20px;
-    font-size: 21px;
-    color: rgb(0, 0, 0);
+    top: 0px;
+    left: 184px;
+    font-size: 30px;
+    color: rgb(18, 20, 20);
     padding: 10px 20px;
     border-radius: 10px;
+    font-weight: bold;
     z-index: 1000;
 }
